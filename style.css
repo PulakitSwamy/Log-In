@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+     display: flex;
+     justify-content: center;
+     text-align: center;
+}
+
+form{
+    background-color: white;
+    margin: 2% 10%;
+    padding: 50px;
+    opacity: 0.8;
+    border-radius: 20px;
+    width: 150px;
+    text-align: center;
+}
+
+#submit{
+    background-color: aquamarine;
+    padding: 8px;
+    font-size: bold;
+    color: white;
+    border-radius: 4px;
+}
+
+label{
+    font-size: 20px;
+}
